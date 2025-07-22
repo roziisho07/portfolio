@@ -77,7 +77,9 @@ const ContactPage = () => {
         <div className="max-w-xl mx-auto bg-white p-8 rounded-2xl shadow-xl border border-gray-100 text-center">
           <h2 className="text-3xl font-bold text-gray-900 mb-4">Thank you!</h2>
           <p className="text-gray-600 text-lg">
-            Your project request has been submitted. We'll get back to you soon.
+            {
+              " Your project request has been submitted. We'll get back to you soon."
+            }
           </p>
         </div>
       </section>
