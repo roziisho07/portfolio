@@ -50,7 +50,7 @@ const Header = () => {
               R
             </motion.div>
             <span className="text-xl font-semibold text-gray-900 hidden sm:block">
-              Rozi.dev
+              Rozi Shah
             </span>
           </Link>
 
